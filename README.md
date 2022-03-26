@@ -11,10 +11,10 @@ Project focuses on 3D rendering. It is written without any advanced graphics lib
 ## Settings
 
 User can:
--switch shading mode:
-	-Phong
-	-Gouraud
-	-constant
--adjust fog effect
--choose from two available cameras
--zoom
+- switch shading mode:
+	- Phong
+	- Gouraud
+	- constant
+- adjust fog effect
+- choose from two available cameras
+- zoom camera
